@@ -25,7 +25,7 @@
 // orange
 // purple
 
-let names = ["Ethan", "Lily", "Marcus", "Sophia", "Daniel"];
+let names = ["Ethan", "Lily", "Marcusyyy", "Sophia", "Daniel"];
 
 for(let i = 0; i < names.length; i++)
 {
